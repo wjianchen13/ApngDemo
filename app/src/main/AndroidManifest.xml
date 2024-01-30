@@ -27,6 +27,8 @@
         <activity android:name=".apng.ApngActivity1" />
         <activity android:name=".apng.ApngActivity2" />
         <activity android:name=".apng.ApngActivity3" />
+        <activity android:name=".webp.WebpActivity" />
+        <activity android:name=".webp.WebpActivity1" />
 
     </application>
 

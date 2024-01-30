@@ -12,14 +12,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:gravity="center"
-        android:text="动图动画" />
+        android:text="Webp 动画" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:textAllCaps="false"
-        android:text="Apng 动画"
+        android:text="Glide 加载动画"
         android:gravity="center"
         android:onClick="onTest1" />
 
@@ -28,8 +28,17 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:textAllCaps="false"
-        android:text="webp 动画"
+        android:text=""
         android:gravity="center"
         android:onClick="onTest2" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="false"
+        android:text=""
+        android:gravity="center"
+        android:onClick="onTest3" />
 
 </LinearLayout>
